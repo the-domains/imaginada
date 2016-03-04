@@ -1,0 +1,28 @@
+name: IMAGINADA
+favicon: null
+layout_spectrum: 0.5480430307798088
+typography_spectrum: 0.2864682353101671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5129977788310498
+  lightness: 0.8589644944295287
+  saturation: 0.9741578700486571
+  rhythmicContrast: 0.9118909498210996
+purpose: []
